@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Tekzilver CIDR-Checker",
+  "version": "1.0",
+  "description": "A free tool to check if an IP belongs to a CIDR block.",
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Open Tekzilver CIDR-Checker",
+    "default_icon": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    }
+  },
+  "permissions": []
+}
